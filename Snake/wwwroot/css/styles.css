@@ -11,7 +11,7 @@ body {
     flex-direction: column;
 
     min-width: 1000px;
-    background-image: url("/img/background.png")
+    background-image: url("../img/background.png")
 }
 
 header {
@@ -100,3 +100,10 @@ footer {
     text-align: center;
     background-color: lightgray;
 }
+
+
+canvas {
+    display: block;
+    margin: 0 auto;
+}
+
